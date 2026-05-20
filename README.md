@@ -1,6 +1,8 @@
 # Ollama Tool Calling
 
-A Python project demonstrating tool calling with Ollama, featuring a secure SMTP email tool implementation.
+A Python project demonstrating tool calling with Ollama, 
+Tools implemented
+- Secure SMTP email tool.
 
 ## Features
 
